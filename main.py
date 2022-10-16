@@ -4,8 +4,8 @@
 from rembg import remove
 from PIL import Image
 
-input_path = 'C:/Users/felip/Desktop/RemoveBackgrounImage/img.jpg' # input image path
-output_path = 'C:/Users/felip/Desktop/RemoveBackgrounImage/img.png' # output image path
+input_path = 'C:/Users/user/Desktop/folder/name_file' # input image path - change path for your path
+output_path = 'C:/Users/user/Desktop/folder/img.png' # output image path
 
 input = Image.open(input_path) # load image
 output = remove(input) # remove background
