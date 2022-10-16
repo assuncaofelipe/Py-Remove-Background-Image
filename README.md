@@ -1,1 +1,1 @@
-"Removendo fundo de imagens com Python" 
+###Removendo fundo de imagens com Python 
